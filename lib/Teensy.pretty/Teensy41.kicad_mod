@@ -507,6 +507,17 @@
 		(layer "F.SilkS")
 		(uuid "816f569f-bb21-4240-bbd6-eefc78f3f12b")
 	)
+	(fp_rect
+		(start -32.25 -9.25)
+		(end 35.25 9.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a688c563-a8b8-4f08-b5cb-6268774f2724")
+	)
 	(fp_text user "Ethernet"
 		(at -12.065 -3.2766 90)
 		(layer "F.SilkS")
