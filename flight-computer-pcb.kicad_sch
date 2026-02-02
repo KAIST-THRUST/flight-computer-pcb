@@ -7264,7 +7264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "FlightComputer:BNO055"
+		(property "Footprint" ""
 			(at 233.68 115.57 0)
 			(effects
 				(font
@@ -8924,7 +8924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputer:S13V10F5"
 			(at 125.73 170.18 0)
 			(effects
 				(font
