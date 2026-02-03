@@ -51,11 +51,11 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start -12.8 -10.275)
-		(end 12.8 10.25)
+		(start -12.83 -10.29)
+		(end 12.83 10.29)
 		(stroke
-			(width 0.1)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.SilkS")
@@ -91,7 +91,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -104,7 +104,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -117,7 +117,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -130,7 +130,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -143,7 +143,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -156,7 +156,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -169,7 +169,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)

@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 0.0127 0 0)
 		(layer "F.SilkS")
 		(uuid "426a5622-9390-464a-8684-34fbed25194a")
 		(effects
@@ -51,11 +51,11 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start -4.5212 -6.1214)
-		(end 4.5466 6.1214)
+		(start -4.57 -6.16)
+		(end 4.57 6.15)
 		(stroke
-			(width 0.1)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.SilkS")
@@ -91,7 +91,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -104,7 +104,20 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "S13V10F5"
+		(at -3.81 -3.19 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e03fe412-be07-4d7f-b0e2-0205ed3c6f90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -117,7 +130,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
