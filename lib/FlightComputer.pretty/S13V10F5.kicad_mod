@@ -160,4 +160,15 @@
 		(uuid "e8f2f2d8-711d-497b-8ee2-0b797f09c663")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/FlightComputer.pretty/S13V10F5.step"
+		(offset
+			(xyz -4.445 -6.0325 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
