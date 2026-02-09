@@ -7112,7 +7112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputer:U3V70F6"
 			(at 54.61 175.26 0)
 			(effects
 				(font
@@ -8104,7 +8104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputer:U3V16F9"
 			(at 154.94 170.18 0)
 			(effects
 				(font
@@ -8646,7 +8646,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputer:S7V8F3"
 			(at 93.98 168.91 0)
 			(effects
 				(font
