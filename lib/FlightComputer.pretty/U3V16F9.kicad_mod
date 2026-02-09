@@ -51,8 +51,8 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start -4.189 -6.932)
-		(end 4.189 6.15)
+		(start -4.189 -6.6548)
+		(end 4.191 6.6548)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -62,19 +62,19 @@
 		(uuid "07557a67-ac73-4e17-9219-5f9c5f910cb3")
 	)
 	(fp_rect
-		(start -4.369 -7.262)
-		(end 4.369 6.5)
+		(start -4.369 -6.881)
+		(end 4.369 6.881)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.CrtYd")
 		(uuid "7dcea7ed-4bd8-4535-9df0-5cf720051f81")
 	)
 	(fp_rect
-		(start -4.064 -6.8145)
-		(end 4.064 6.0325)
+		(start -4.064 -6.5405)
+		(end 4.064 6.5405)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -84,7 +84,7 @@
 		(uuid "e429258d-0886-438a-a5d0-02a0333b40be")
 	)
 	(fp_text user "VIN"
-		(at 3.25 3.75 90)
+		(at 3.255 4.445 90)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "46d5052b-d283-4d4c-b24f-259a8695666e")
@@ -97,7 +97,7 @@
 		)
 	)
 	(fp_text user "VOUT"
-		(at -1.93 3.74 90)
+		(at -1.925 4.435 90)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "5f0f89ef-ce0e-474f-adf3-4aeb0a545c0a")
@@ -123,7 +123,7 @@
 		)
 	)
 	(fp_text user "GND"
-		(at 0.63 3.74 90)
+		(at 0.635 4.435 90)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "ea614c13-24b0-4c66-a20e-c21951cabba8")
@@ -136,7 +136,7 @@
 		)
 	)
 	(pad "1" thru_hole circle
-		(at -2.54 4.7625)
+		(at -2.54 5.2705)
 		(size 1.2 1.2)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
@@ -144,7 +144,7 @@
 		(uuid "8a08ef47-0603-478b-b605-a069c214c356")
 	)
 	(pad "2" thru_hole circle
-		(at 0 4.7625)
+		(at 0 5.2705)
 		(size 1.2 1.2)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
@@ -152,7 +152,7 @@
 		(uuid "27aaaadd-efb7-47a6-9b1e-3a0f50e1fadd")
 	)
 	(pad "3" thru_hole circle
-		(at 2.54 4.7625)
+		(at 2.54 5.2705)
 		(size 1.2 1.2)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
@@ -160,9 +160,9 @@
 		(uuid "e8f2f2d8-711d-497b-8ee2-0b797f09c663")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/FlightComputer.pretty/S13V10F5.step"
+	(model "${KIPRJMOD}/lib/FlightComputer.pretty/U3V16F9.step"
 		(offset
-			(xyz -4.445 -6.0325 0)
+			(xyz -4.064 -6.5405 0)
 		)
 		(scale
 			(xyz 1 1 1)
